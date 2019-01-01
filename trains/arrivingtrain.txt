@@ -1,0 +1,11 @@
+301 coal 13000 Atlanta Portsmouth
+321 cattle 5000 Laredo Portsmouth
+353 hogs 3500 Topeka Portsmouth
+443 eggs 2950 Lancaster Miami
+115 coal 13500 Atlanta Norfolk
+145 coal 13700 Atlanta Norfolk
+123 tanks 25000 Chicago Norfolk
+492 hogs 3750 Atlanta Chicago
+230 eggs 3100 Lancaster Roanoke
+220 coal 13600 Pittsburg Roanoke
+413 eggs 3050 Lancaster Atlanta

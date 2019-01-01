@@ -1,1 +1,1 @@
-# coursework_cpp
+This repository contains various C++ programs created for college course assignments.
